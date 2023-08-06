@@ -4,6 +4,7 @@ I am gonna learn how to use python day by day
 
 I'm going to create a branch with date fromat folder for each day.
 
-thank you
+thank you!
 
-hi
+Try using differnt Markdown elements 
+
